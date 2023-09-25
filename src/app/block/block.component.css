@@ -1,0 +1,23 @@
+div {
+    height: 45px;
+    width: 45px;
+    border: 3px solid black;
+  }
+.box_1{
+    height: 100%;
+    width: 100%;
+    border: 0cm;
+    display: flex;
+    justify-content:space-between;
+}
+
+.box_2{
+    height: 36em;
+    width: 100%;
+    border: 0cm;
+    display: flex;
+   justify-content: space-between;
+   align-items: flex-end;
+}
+ 
+  
